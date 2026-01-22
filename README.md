@@ -22,7 +22,7 @@
 
 ## Technologies I Use
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nodejs,express,mongo,mysql,postgresql,prisma,docker,githubactions,git,github,azure,aws,gcp,java,vscode,postman)]()
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nodejs,express,mongo,mysql,postgresql,prisma,docker,githubactions,git,github,azure,aws,gcp,java,vscode,postman)](https://mustafasayyed.dev)
 
 ---
 

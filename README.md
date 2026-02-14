@@ -2,8 +2,6 @@
 ##  I'm Sayyed Mustafa, Full Stack Developer from India
 - I mostly work with JavaScript, TypeScript ecosystem
 - I love building real-world products using modern web technologies and enjoy diving deep into how things work rather than just making them work.
-- Some of my friends call me Scientist - mainly because of the way I explore, experiment, and learn tech.
-- Fun fact: My birthday is on 14th March - Einstein’s Birthday & π Day (3.14) 😄
 
 ---
 

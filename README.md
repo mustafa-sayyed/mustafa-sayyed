@@ -1,9 +1,9 @@
 # Hi there, I'm Mustafa 👋
 
-### Full Stack Developer from India 🇮🇳
+### Full Stack Developer from India
 
 I build products that solve real-world problems.
-I enjoy building scalable web applications, backend systems, and AI-powered developer tools. I love understanding how things work under the hood and continuously learning new technologies.
+I enjoy building scalable web applications, backend systems, and AI-powered tools. I love understanding how things work under the hood and continuously learning new technologies.
 
 ---
 

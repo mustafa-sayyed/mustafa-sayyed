@@ -1,46 +1,24 @@
-## Hi there 👋
-##  I'm Sayyed Mustafa, Full Stack Developer from India
-- I mostly work with JavaScript, TypeScript ecosystem
-- I love building real-world products using modern web technologies and enjoy diving deep into how things work rather than just making them work.
+# Hi there, I'm Mustafa 👋
+
+### Full Stack Developer from India 🇮🇳
+
+I build products that solve real-world problems.
+I enjoy building scalable web applications, backend systems, and AI-powered developer tools. I love understanding how things work under the hood and continuously learning new technologies.
 
 ---
 
-## 👨‍💻 What I Do
+##  Building [getissues.tech](https://getissues.tech)
 
-* Build scalable **full-stack web applications**
-* Focus on **clean architecture, performance, and real-world usability**
-* Enjoy learning systems from **first principles**
+**GetIssues** is an AI-powered platform where AI agents search issues on behalf of the user based on skills and preferences.
 
----
+**Features**
+* 🔍 AI Agents autonomously find issues for you
+* 🤖 Agentic Workflows that run the agents
+* 🎯 Smenatically search issues
 
-## Currently Learning
+**Features that are coming soon**
+- 📥 **Delivered to your Notion** — matched issues sync straight to your Notion database with score, labels, and repo context
+- 🏆 **Campaign Modes** — dedicated issue search for Hacktoberfest, GSoC, LFX, and GSSoC tracks
+- 👀 **Semantic Repo Watching** — follow repos that match your interests without irrelevant noise
 
-* **Next.js** 
-* **Applied AI**
-
-## Technologies I Use
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,nodejs,express,mongo,mysql,postgresql,prisma,docker,githubactions,git,github,azure,aws,gcp,java,vscode,postman)](https://mustafasayyed.dev)
-
----
-
-## 🤝 Let’s Connect
-
-If you like talking about **system design, backend architecture, full-stack projects, or AI-powered apps**, feel free to connect or collaborate!
-
-<p align="left">
-  <a href="https://linkedin.com/in/mustafa-sayyed" target="_blank">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/light/linkedin.svg" height="40" />
-  </a>
-  <a href="https://x.com/_sayyed_mustafa" target="_blank">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/light/twitter-x.svg" height="40" />
-  </a>
-</p>
-
-[![Mail Me](https://img.shields.io/badge/Mail%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustafasayyed2429@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mustafasayyed.dev)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mustafa-sayyed&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+Check out here: https://getissues.tech
